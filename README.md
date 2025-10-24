@@ -28,6 +28,8 @@ Rpi Pico w
 # Installation
 The setup is rather easy. After setting up the rpi pico according to this guide:
 https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2
+Change your Wifi Information in the pico-log file. This will be set in the Data Importer in the future.
 Copy over the files in Picologger to the pico.
+Install the tmp117 driver using Thonny: https://pypi.org/project/micropython-tmp117/ 
 When connecting it only to power, it will start logging and show the output on the screen. 
 As soon as its connected to a PC, it will enter data transfer mode. Run the software in the Data-Importer folder and the connect the rpi in order to import the data from the pico.

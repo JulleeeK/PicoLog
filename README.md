@@ -15,7 +15,7 @@ The reason I started this project is a slightly broken climate chamber, which ma
 -> Lora Wan module for transferring data over wide range in remote locations\
 -> Database module for fixed local installations\
 -> Integrations into other systems (e.G. Home Assistant)\
--> Settings menu, module importer and updater in Data Importer Software\
+-> Settings menu, module importer and updater in Data Importer Software
 
 # Hardware
 Here are some links to the hardware I used:\

@@ -23,7 +23,7 @@ Display:\
 https://www.waveshare.com/wiki/Pico-ePaper-2.9-D \
 Temperature Sensor:\
 https://www.adafruit.com/product/4821?srsltid=AfmBOop-LRcEVgQHUQiO-RTHF9dfsrg5beyn9RiG7nexVIOL9lnbpCLe \
-Rpi Pico w\
+Rpi Pico w
 
 # Installation
 The setup is rather easy. After setting up the rpi pico according to this guide:
